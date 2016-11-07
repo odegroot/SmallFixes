@@ -1,4 +1,4 @@
--- Make logistic bots unminable.
+-- Make logistic robots unminable.
 
 -- In vanilla Factorio, there is only one type of logistic robot, named "logistic-robot".
 -- So for vanilla the for-loop could be skipped and we could just do the following.

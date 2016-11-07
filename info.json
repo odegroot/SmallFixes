@@ -1,10 +1,10 @@
 {
-  "name": "unminable-logistic-bots",
+  "name": "unminable-logistic-robots",
   "version": "1.0.0",
   "factorio_version": "0.14",
-  "title": "unminable-logistic-bots",
+  "title": "unminable-logistic-robots",
   "author": "OscarG",
   "homepage": "",
-  "description": "Makes logistic bots unminable, so you don't accidentally pick them up when they fly under your cursor."
+  "description": "Makes logistic robots unminable, so you don't accidentally pick them up when they fly under your cursor."
 }
 
