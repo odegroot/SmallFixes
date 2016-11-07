@@ -1,9 +1,10 @@
 {
-  "name": "SmallFixes",
+  "name": "unminable-logistic-bots",
   "version": "1.0.0",
   "factorio_version": "0.14",
-  "title": "SmallFixes",
-  "author": "Choumiko",
+  "title": "unminable-logistic-bots",
+  "author": "OscarG",
   "homepage": "",
-  "description": "Small non game changing/breaking fixes"
+  "description": "Makes logistic bots unminable, so you don't accidentally pick them up when they fly under your cursor."
 }
+
